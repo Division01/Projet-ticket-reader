@@ -25,10 +25,10 @@ names = ['courses1.jpg','courses2.jpg','courses3.jpg']
 # names = ['c1.jpg','c2.jpg']
 # names = ['prixc2.jpg']
 
-cap = cv2.VideoCapture('1bis.jpg')
+# cap = cv2.VideoCapture('1bis.jpg')
 
-if not cap.isOpened():
-    raise IOError("Cannot Open Webcam")
+# if not cap.isOpened():
+#     raise IOError("Cannot Open Webcam")
 
 pic_index = 0 
 row_index = 0
