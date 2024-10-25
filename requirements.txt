@@ -1,0 +1,12 @@
+opencv-python
+openpyxl
+
+# For Tesseract version
+pytesseract
+
+# For EasyOCR version
+easyocr
+
+# Common dependencies
+numpy
+Pillow
